@@ -1,1 +1,1 @@
-# qb-releases-fuckmojito
+# qb-releases
